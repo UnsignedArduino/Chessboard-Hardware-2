@@ -17,5 +17,5 @@ This repository contains the KiCad PCB project for the rest of the Chessboard's 
 All models were modified in Fusion 360. 
 
 * Raspberry Pi Zero WH was modified from [Julian's model](https://grabcad.com/library/raspberry-pi-zero-w-1)
-  and combined with "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Vertical.step"
+  and combined with `${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Vertical.step`
   from the KiCad 3D model library.
