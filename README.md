@@ -7,3 +7,5 @@
 # Chessboard-Hardware-2
 
 Hardware for a magnetic-piece-tracking digital chessboard! WIP
+
+This repository contains the KiCad PCB project for the rest of the Chessboard's wiring.
