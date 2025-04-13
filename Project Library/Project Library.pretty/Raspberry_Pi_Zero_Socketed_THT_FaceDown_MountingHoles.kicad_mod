@@ -1288,15 +1288,27 @@
 		(remove_unused_layers no)
 		(uuid "dc09c464-9e82-4b3d-b295-6901b0525514")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Vertical.wrl"
+		(hide yes)
 		(offset
-			(xyz 0 0 0)
+			(xyz 12.8 24.1 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/Project Library/Project Library.3dshapes/Raspberry Pi Zero WH socketed THT facedown mounting holes v2.step"
+		(offset
+			(xyz -15 -32.5 12.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 180 90)
 		)
 	)
 )
