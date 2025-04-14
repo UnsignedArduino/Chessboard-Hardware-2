@@ -21,7 +21,7 @@
 (rule "Minimum Silkscreen Text Size"
 	(layer "?.Silkscreen")
 	(condition "A.Type == 'Text' || A.Type == 'Text Box'")
-	(constraint text_thickness (min 0.153mm))
+	(constraint text_thickness (min 0.15mm))
 	(constraint text_height (min 1mm))
 )
 
