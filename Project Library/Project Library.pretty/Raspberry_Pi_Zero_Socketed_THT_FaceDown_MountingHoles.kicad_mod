@@ -1300,7 +1300,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/Project Library/Project Library.3dshapes/Raspberry Pi Zero WH socketed THT facedown mounting holes v2.step"
+	(model "${KIPRJMOD}/Project Library/Project Library.3dshapes/Raspberry Pi Zero WH socketed THT facedown mounting holes v5.step"
 		(offset
 			(xyz -15 -32.5 12.6)
 		)
